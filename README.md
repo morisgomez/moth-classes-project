@@ -1,5 +1,5 @@
 # moth-classes-project
-Practice creating classes via separate header files.
+Practice creating classes via separate header files for course 10A HW 7.
 
 Please turn in moth.h and moth.cpp that contains your implementation of the Moth class. I
 provided starter code moth.h and moth.cpp. I also provided moth main.cpp, which contains
