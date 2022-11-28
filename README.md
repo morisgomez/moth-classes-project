@@ -29,6 +29,7 @@ Moth(double initial_position)
 <br>
 and member functions:
 <br>
+<br>
 void move_to_light(double light_position)
 <br>
 double get_position() const
