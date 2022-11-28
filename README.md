@@ -20,14 +20,18 @@ a position, the distance from a fixed origin. When the moth moves toward a point
 its new position is halfway between its old position and the position of the light source. (If
 the light position and the moth’s current position are the same, then it doesn’t move.)
 <br>
+<br>
 Provide a constructor:
+<br>
 <br>
 Moth(double initial_position)
 <br>
-and member functions
+<br>
+and member functions:
 <br>
 void move_to_light(double light_position)
 <br>
 double get_position() const
+<br>
 <br>
 • Note: There will be no output. Please just pass all the tests.
